@@ -1,0 +1,23 @@
+{
+  "name": "Qiita",
+  "version": "1.0.0",
+  "description": "github",
+  "main": "index.js",
+  "author": "kakunpc <kakun_pc@yahoo.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://qiita.com/",
+    "serviceName": "Qiita",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
