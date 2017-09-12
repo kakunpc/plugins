@@ -1,0 +1,23 @@
+{
+  "name": "mastodon",
+  "version": "1.0.0",
+  "description": "mastodon",
+  "main": "index.js",
+  "author": "kakunpc <kakun_pc@yahoo.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}/web/getting-started",
+    "serviceName": "mastodon",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
