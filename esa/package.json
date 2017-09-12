@@ -1,0 +1,23 @@
+{
+  "name": "esa.io",
+  "version": "1.0.0",
+  "description": "github",
+  "main": "index.js",
+  "author": "kakunpc <kakun_pc@yahoo.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.esa.io/",
+    "serviceName": "esa.io",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
